@@ -10,7 +10,7 @@
     "readable-stream": "1"
   },
   "devDependencies": {
-    "istanbul": "0",
+    "istanbul": "0.4.2",
     "mocha": "2",
     "stream-to-array": "2"
   },
